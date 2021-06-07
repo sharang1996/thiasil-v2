@@ -8,7 +8,10 @@ const Header = () => {
       <div className={classes.logo_box}>
         <img src="/logo-white.png" alt="Logo" className={classes.logo} />
       </div>
-      <PrimaryHeading />
+      <PrimaryHeading
+        heading="thiasil"
+        subheading="individually oxy-gas fired labware"
+      />
       <Button isPrimary text="Discover our products" url="#" />
     </header>
   );

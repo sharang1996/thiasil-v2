@@ -1,6 +1,7 @@
 .btn,
 .btn:link,
 .btn:visited {
+  font-size: 1.6rem;
   text-transform: uppercase;
   text-decoration: none;
   padding: 1.5rem 4rem;
